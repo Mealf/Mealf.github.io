@@ -2,7 +2,12 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://mealf.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://mealf.github.io/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://mealf.github.io/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://mealf.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://mealf.github.io/categories/</loc><lastmod>2022-01-14T23:36:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://mealf.github.io/tags/configuration/</loc><lastmod>2022-01-14T23:36:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://mealf.github.io/</loc><lastmod>2022-01-14T23:36:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://mealf.github.io/posts/</loc><lastmod>2022-01-14T23:36:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://mealf.github.io/tags/</loc><lastmod>2022-01-14T23:36:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://mealf.github.io/tags/vcenter/</loc><lastmod>2022-01-14T23:36:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://mealf.github.io/categories/vcenter/</loc><lastmod>2022-01-14T23:36:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://mealf.github.io/vcenter_password_expired/</loc><lastmod>2022-01-14T23:36:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://mealf.github.io/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
