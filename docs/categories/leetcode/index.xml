@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Mealf 的網站</title>
-    <link>https://mealf.github.io/posts/</link>
-    <description>Recent content in Posts on Mealf 的網站</description>
+    <title>LeetCode on Mealf 的網站</title>
+    <link>https://mealf.github.io/categories/leetcode/</link>
+    <description>Recent content in LeetCode on Mealf 的網站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>q100056&#43;blog@google.com (Mealf)</managingEditor>
     <webMaster>q100056&#43;blog@google.com (Mealf)</webMaster>
-    <lastBuildDate>Thu, 20 Jan 2022 14:31:15 +0800</lastBuildDate><atom:link href="https://mealf.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jan 2022 14:31:15 +0800</lastBuildDate><atom:link href="https://mealf.github.io/categories/leetcode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LeetCode 875. Koko Eating Bananas</title>
       <link>https://mealf.github.io/leetcode875/</link>
@@ -25,15 +25,6 @@
       <author>q100056&#43;blog@google.com (Mealf)</author>
       <guid>https://mealf.github.io/leetcode142/</guid>
       <description>問題描述 分類： Easy 相關主題： Hash Table、 Linked List、 Two Pointers Link： https://leetcode.com/problems/linked-list-cycle-ii/ 題目敘述 Given the head of a linked list, return the node where the cycle begins. If there is no cycle, return null. There is a cycle in a linked list if there is</description>
-    </item>
-    
-    <item>
-      <title>vCenter 取消密碼到期</title>
-      <link>https://mealf.github.io/vcenter_password_expired/</link>
-      <pubDate>Fri, 14 Jan 2022 23:36:48 +0800</pubDate>
-      <author>q100056&#43;blog@google.com (Mealf)</author>
-      <guid>https://mealf.github.io/vcenter_password_expired/</guid>
-      <description>在登入vCenter後，上排常常出現密碼將要到期的提示，而且改完後過一段時間又再跳出來了，因此這次想要一勞永逸，不要讓他在強制我們修改密碼，</description>
     </item>
     
   </channel>

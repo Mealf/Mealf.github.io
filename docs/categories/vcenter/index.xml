@@ -1,15 +1,22 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>vCenter - Category - Mealf 的網站</title>
-        <link>https://mealf.github.io/categories/vcenter/</link>
-        <description>vCenter - Category - Mealf 的網站</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>q100056&#43;blog@google.com (Mealf)</managingEditor>
-            <webMaster>q100056&#43;blog@google.com (Mealf)</webMaster><lastBuildDate>Fri, 14 Jan 2022 23:36:48 &#43;0800</lastBuildDate><atom:link href="https://mealf.github.io/categories/vcenter/" rel="self" type="application/rss+xml" /><item>
-    <title>vCenter 取消密碼到期</title>
-    <link>https://mealf.github.io/vcenter_password_expired/</link>
-    <pubDate>Fri, 14 Jan 2022 23:36:48 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://mealf.github.io/vcenter_password_expired/</guid>
-    <description><![CDATA[在登入vCenter後，上排常常出現密碼將要到期的提示，而且改完後過一段時間又再跳出來了，因此這次想要一勞永逸，不要讓他在強制我們修改密碼，]]></description>
-</item></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vCenter on Mealf 的網站</title>
+    <link>https://mealf.github.io/categories/vcenter/</link>
+    <description>Recent content in vCenter on Mealf 的網站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>q100056&#43;blog@google.com (Mealf)</managingEditor>
+    <webMaster>q100056&#43;blog@google.com (Mealf)</webMaster>
+    <lastBuildDate>Fri, 14 Jan 2022 23:36:48 +0800</lastBuildDate><atom:link href="https://mealf.github.io/categories/vcenter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vCenter 取消密碼到期</title>
+      <link>https://mealf.github.io/vcenter_password_expired/</link>
+      <pubDate>Fri, 14 Jan 2022 23:36:48 +0800</pubDate>
+      <author>q100056&#43;blog@google.com (Mealf)</author>
+      <guid>https://mealf.github.io/vcenter_password_expired/</guid>
+      <description>在登入vCenter後，上排常常出現密碼將要到期的提示，而且改完後過一段時間又再跳出來了，因此這次想要一勞永逸，不要讓他在強制我們修改密碼，</description>
+    </item>
+    
+  </channel>
 </rss>
