@@ -4,7 +4,7 @@ date: 2022-01-14T23:36:48+08:00
 draft: false
 
 tags: [vCenter, configuration]
-categories: [vCenter]
+categories: [網路管理]
 ---
 
 在登入vCenter後，上排常常出現密碼將要到期的提示，而且改完後過一段時間又再跳出來了，因此這次想要一勞永逸，不要讓他在強制我們修改密碼，順便做個紀錄。

@@ -4,9 +4,16 @@
         <link>https://mealf.github.io/</link>
         <description>Mealf 的網站</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>q100056&#43;blog@google.com (Mealf)</managingEditor>
-            <webMaster>q100056&#43;blog@google.com (Mealf)</webMaster><lastBuildDate>Thu, 20 Jan 2022 14:31:15 &#43;0800</lastBuildDate>
+            <webMaster>q100056&#43;blog@google.com (Mealf)</webMaster><lastBuildDate>Tue, 25 Jan 2022 14:22:22 &#43;0800</lastBuildDate>
             <atom:link href="https://mealf.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Windows 10 L2TP 解決連線失敗</title>
+    <link>https://mealf.github.io/winl2tp_error/</link>
+    <pubDate>Tue, 25 Jan 2022 14:22:22 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://mealf.github.io/winl2tp_error/</guid>
+    <description><![CDATA[錯誤訊息 之前在 Windows 中都能正常的建立 L2TP 的連線，但最近要連線時就出現了以下的錯誤訊息 排錯過程 先使用 ubuntu 與 anandroid 環境建立 L2TP 連線，皆能成功連線，同時也在相同]]></description>
+</item><item>
     <title>LeetCode 875. Koko Eating Bananas</title>
     <link>https://mealf.github.io/leetcode875/</link>
     <pubDate>Thu, 20 Jan 2022 14:31:15 &#43;0800</pubDate>
